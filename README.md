@@ -1,3 +1,4 @@
 # これは何？
-Unityで作ったゲーム（百百）のwebglです。
-コードはhyakuにおいています。
+Unityで作った2Dアクションゲーム（百百）のWebGLです。
+コードは[hyaku](https://github.com/kokonasa/hyaku)においています。
+
